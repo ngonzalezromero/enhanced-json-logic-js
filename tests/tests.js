@@ -38,7 +38,6 @@ var remote_or_cache = function (remote_url, local_file, description, runner){
     });
 
   };
-
 	// Only waiting on the request() is async
   stop();
 
