@@ -1,9 +1,4 @@
 {
-  "author": {
-    "name": "Jeremy Wadhams",
-    "email": "jwadhams@dealerinspire.com",
-    "url": "http://jsonlogic.com"
-  },
   "devDependencies": {
     "prettier": "1.18.2",
     "jest": "24.9.0"
@@ -13,7 +8,7 @@
   "scripts": {
     "test": "jest"
   },
-  "version": "1.0.0-beta-2",
+  "version": "1.0.0-beta-3",
   "lint-staged": {
     "gitDir": "../",
     "linters": {
